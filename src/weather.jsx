@@ -51,7 +51,15 @@ const Weather = () => {
     return `${day} ${date} ${month} ${year}`;
   };
   return (
-    <div className="{typeof weather.main != 'undefined' ? (weather.main.temp > 16 ? 'app warm' : 'app') : 'app'}">
+    <div
+      className={
+        typeof weather.main != "undefined"
+          ? weather.main.temp > 16
+            ? "app warm"
+            : "app"
+          : "app"
+      }
+    >
       <main>
         <div className="search-box">
           <input
@@ -73,8 +81,8 @@ const Weather = () => {
 
               <div className="weather-box">
                 <div className="temp">{Math.round(weather.main.temp)}°c</div>
-              
-              <div className="weather">{weather.weather[0].main}</div>
+
+                <div className="weather">{weather.weather[0].main}</div>
               </div>
             </div>
           </div>
