@@ -1,7 +1,31 @@
 # Weather-App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple, user-friendly weather application built using React, HTML, CSS, and the OpenWeather API. This app allows users to check the current weather conditions for any city worldwide.
 
+## Features
+Fetches real-time weather data using the OpenWeather API.
+Displays essential weather information:
+Temperature (°C/°F)
+Weather description (e.g., Clear Sky, Rain)
+Humidity and Wind Speed.
+Responsive design for an optimal experience on mobile, tablet, and desktop devices.
+Intuitive user interface with a search functionality for city-based weather lookup.
+
+## Technologies Used
+React: For building the front-end UI and managing component states.
+HTML5: For structuring the app layout.
+CSS3: This is used to style the app and ensure responsiveness.
+OpenWeather API: This is used to fetch live weather data.
+
+## Getting Started
+Prerequisites
+Node.js installed on your system.
+An API key from OpenWeather.
+
+## Usage
+Open the app in your browser.
+Enter the name of a city in the search bar.
+View the weather details for the selected city, including temperature, weather conditions, and more.
 ## Available Scripts
 
 In the project directory, you can run:
