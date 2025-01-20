@@ -26,13 +26,14 @@ An API key from OpenWeather.
 Open the app in your browser.
 Enter the name of a city in the search bar.
 View the weather details for the selected city, including temperature, weather conditions, and more.
-## Available Scripts
+
 
 <img width="1512" alt="Screenshot 2025-01-21 at 3 08 16 AM" src="https://github.com/user-attachments/assets/4c578d9a-577d-4b05-a771-4e7ad1e04f6a" />
 
+<img width="1512" alt="Screenshot 2025-01-21 at 3 08 55 AM" src="https://github.com/user-attachments/assets/e25c9af8-180c-4594-9616-26683b9bac78" />
 
 
-
+## Available Scripts
 In the project directory, you can run:
 
 ### `npm start`
