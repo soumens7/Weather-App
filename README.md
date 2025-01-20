@@ -2,6 +2,8 @@
 
 A simple, user-friendly weather application built using React, HTML, CSS, and the OpenWeather API. This app allows users to check the current weather conditions for any city worldwide.
 
+Check out the live version of the project [here](https://weather-app-ljxi.onrender.com)
+
 ## Features
 Fetches real-time weather data using the OpenWeather API.
 Displays essential weather information:
