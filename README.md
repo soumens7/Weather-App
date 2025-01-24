@@ -14,10 +14,10 @@ Responsive design for an optimal experience on mobile, tablet, and desktop devic
 Intuitive user interface with a search functionality for city-based weather lookup.
 
 ## Technologies Used
-React: For building the front-end UI and managing component states.
-HTML5: For structuring the app layout.
-CSS3: This is used to style the app and ensure responsiveness.
-OpenWeather API: This is used to fetch live weather data.
+React: For building the front-end UI and managing component states.  
+HTML5: For structuring the app layout.  
+CSS3: This is used to style the app and ensure responsiveness.  
+OpenWeather API: This is used to fetch live weather data.  
 
 ## Getting Started
 Prerequisites
