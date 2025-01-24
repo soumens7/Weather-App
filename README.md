@@ -20,7 +20,7 @@ CSS3: This is used to style the app and ensure responsiveness.
 OpenWeather API: This is used to fetch live weather data.  
 
 ## Getting Started
-Prerequisites
+Prerequisites  
 Node.js installed on your system.
 An API key from OpenWeather.
 
